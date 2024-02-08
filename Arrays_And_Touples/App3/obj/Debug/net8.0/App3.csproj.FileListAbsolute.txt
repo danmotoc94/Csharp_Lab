@@ -1,0 +1,14 @@
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\bin\Debug\net8.0\App3.exe
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\bin\Debug\net8.0\App3.deps.json
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\bin\Debug\net8.0\App3.runtimeconfig.json
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\bin\Debug\net8.0\App3.dll
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\bin\Debug\net8.0\App3.pdb
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\obj\Debug\net8.0\App3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\obj\Debug\net8.0\App3.AssemblyInfoInputs.cache
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\obj\Debug\net8.0\App3.AssemblyInfo.cs
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\obj\Debug\net8.0\App3.csproj.CoreCompileInputs.cache
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\obj\Debug\net8.0\App3.dll
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\obj\Debug\net8.0\refint\App3.dll
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\obj\Debug\net8.0\App3.pdb
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\obj\Debug\net8.0\App3.genruntimeconfig.cache
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Arrays_And_Touples\App3\obj\Debug\net8.0\ref\App3.dll

@@ -1,0 +1,14 @@
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\bin\Debug\net8.0\App2.exe
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\bin\Debug\net8.0\App2.deps.json
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\bin\Debug\net8.0\App2.runtimeconfig.json
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\bin\Debug\net8.0\App2.dll
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\bin\Debug\net8.0\App2.pdb
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\obj\Debug\net8.0\App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\obj\Debug\net8.0\App2.AssemblyInfoInputs.cache
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\obj\Debug\net8.0\App2.AssemblyInfo.cs
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\obj\Debug\net8.0\App2.csproj.CoreCompileInputs.cache
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\obj\Debug\net8.0\App2.dll
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\obj\Debug\net8.0\refint\App2.dll
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\obj\Debug\net8.0\App2.pdb
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\obj\Debug\net8.0\App2.genruntimeconfig.cache
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Introduction\App2\obj\Debug\net8.0\ref\App2.dll

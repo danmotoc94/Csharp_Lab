@@ -1,0 +1,14 @@
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\bin\Debug\net8.0\App6.exe
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\bin\Debug\net8.0\App6.deps.json
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\bin\Debug\net8.0\App6.runtimeconfig.json
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\bin\Debug\net8.0\App6.dll
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\bin\Debug\net8.0\App6.pdb
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\obj\Debug\net8.0\App6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\obj\Debug\net8.0\App6.AssemblyInfoInputs.cache
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\obj\Debug\net8.0\App6.AssemblyInfo.cs
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\obj\Debug\net8.0\App6.csproj.CoreCompileInputs.cache
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\obj\Debug\net8.0\App6.dll
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\obj\Debug\net8.0\refint\App6.dll
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\obj\Debug\net8.0\App6.pdb
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\obj\Debug\net8.0\App6.genruntimeconfig.cache
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App6\obj\Debug\net8.0\ref\App6.dll

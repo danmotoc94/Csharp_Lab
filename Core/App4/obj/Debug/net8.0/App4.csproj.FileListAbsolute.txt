@@ -1,0 +1,14 @@
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\bin\Debug\net8.0\App4.exe
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\bin\Debug\net8.0\App4.deps.json
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\bin\Debug\net8.0\App4.runtimeconfig.json
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\bin\Debug\net8.0\App4.dll
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\bin\Debug\net8.0\App4.pdb
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\obj\Debug\net8.0\App4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\obj\Debug\net8.0\App4.AssemblyInfoInputs.cache
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\obj\Debug\net8.0\App4.AssemblyInfo.cs
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\obj\Debug\net8.0\App4.csproj.CoreCompileInputs.cache
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\obj\Debug\net8.0\App4.dll
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\obj\Debug\net8.0\refint\App4.dll
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\obj\Debug\net8.0\App4.pdb
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\obj\Debug\net8.0\App4.genruntimeconfig.cache
+C:\Users\buzga\OneDrive\Desktop\Facultate\C#\Proiecte\Core\App4\obj\Debug\net8.0\ref\App4.dll
